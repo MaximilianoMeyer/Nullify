@@ -8,7 +8,24 @@
 
 Nullify is a data sanitisation tool built around the *NIST 800-88* guidelines — the industry standard for media sanitisation. It provides a graphical interface for detecting and monitoring USB storage devices in real time, enabling operators to audit and sanitise connected media in a controlled, standards-compliant workflow. The tool is designed for security-conscious environments where traceable, verifiable data destruction is required.
 ---
+## Screenshots
 
+Main Interface
+![Main Interface](https://github.com/MaximilianoMeyer/Nullify/blob/main/images/main_interface.png)
+
+Scan
+![Scan](https://github.com/MaximilianoMeyer/Nullify/blob/main/images/scan.png)
+
+Android
+![Android](https://github.com/MaximilianoMeyer/Nullify/blob/main/images/android.png)
+
+Backup
+![Backup](https://github.com/MaximilianoMeyer/Nullify/blob/main/images/backup.png)
+
+Files
+![Files](https://github.com/MaximilianoMeyer/Nullify/blob/main/images/files.png)
+
+---
 
 ## Features
 
