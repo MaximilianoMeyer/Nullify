@@ -74,7 +74,8 @@ pip install -r requirements.txt
 Launch the application with:
 
 bash
-python3 main.py
+
+python3 nullify.py
 
 
 Once the GUI is open:
