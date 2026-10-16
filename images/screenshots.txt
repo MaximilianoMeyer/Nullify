@@ -1,0 +1,5 @@
+main interface
+scan
+Android adb (coming soon)
+Sandbox (coming soon)
+Sanitization (at your risk)
