@@ -41,7 +41,7 @@ Nullify is a data sanitisation tool built around the *NIST 800-88* guidelines â€
 
 bash
 # Debian/Ubuntu
-sudo apt install usbutils python3-pip python3-venv
+sudo apt install usbutils python3-pip python3-venv adb
 
 
 ## Getting Started
