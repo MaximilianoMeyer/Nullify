@@ -7,3 +7,4 @@ scikit-learn>=1.2.0
 transformers>=4.25.0
 reportlab>=3.6.0
 pyyaml>=6.0
+usb-monitor
