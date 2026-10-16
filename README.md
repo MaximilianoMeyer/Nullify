@@ -107,7 +107,8 @@ Once the GUI is open:
 > The application must be run with sufficient privileges to access USB device information. If device details are not appearing, try running with sudo.
 
 bash
-sudo python3 main.py
+
+sudo python3 nullify.py
 
 
 ## Project Structure
