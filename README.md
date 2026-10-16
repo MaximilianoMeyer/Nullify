@@ -49,6 +49,7 @@ sudo apt install usbutils python3-pip python3-venv adb
 1. *Clone the repository*
 
 bash
+
 git clone https://github.com/MaximilianoMeyer/Nullify.git
 cd Nullify
 
